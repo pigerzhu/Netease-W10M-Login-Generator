@@ -6,3 +6,6 @@ output/
 outputs/
 *.log
 blank.dat.LOG*
+build/
+dist/
+*.spec
