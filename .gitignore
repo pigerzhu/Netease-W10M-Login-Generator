@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+settings.dat
+settings.dat.*
+output/
+outputs/
+*.log
+blank.dat.LOG*
